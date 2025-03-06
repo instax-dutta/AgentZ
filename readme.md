@@ -107,10 +107,10 @@ Additional protocols:
 
 ```plaintext
 DISCORD_TOKEN=your_discord_bot_token
-MISTRAL_API_KEY=BxBj1x0wtxAgUaY7PVT6saMDmtExzSWy
-AGENT_ID=agentz-roleplayingchatbot
-GUILD_ID=your_guild_id
-ALLOWED_CHANNEL_ID=your_channel_id
+   MISTRAL_API_KEY=your_mistral_api_key
+   AGENT_ID=your_agent_id
+   GUILD_ID=your_guild_id
+   ALLOWED_CHANNEL_ID=your_channel_id
 ```
 
 ### Running the Bot
