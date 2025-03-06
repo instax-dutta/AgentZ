@@ -136,7 +136,7 @@ For more information about the Mistral API and the Mistral-Nemo 12B model, visit
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
+Contributions are welcome! Please read the [contributing guidelines](contributing.md) before getting started.
 
 ## License
 
